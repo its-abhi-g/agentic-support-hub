@@ -1,0 +1,127 @@
+[
+  {
+    "title": "ChatGPT Enterprise Access",
+    "product": "ChatGPT",
+    "content": "User must complete mandatory training and AI Literacy Assessment. After completion, raise a OneConnect request and obtain Reporting Manager approval."
+  },
+  {
+    "title": "ChatGPT Missing Invitation",
+    "product": "ChatGPT",
+    "content": "If no invitation is received, verify manager approval, check spam or junk folders and allow the documented waiting period."
+  },
+  {
+    "title": "ChatGPT Login Issue",
+    "product": "ChatGPT",
+    "content": "Verify enterprise access approval and ensure the user signs in using approved corporate credentials."
+  },
+  {
+    "title": "ChatGPT Access Upgrade",
+    "product": "ChatGPT",
+    "content": "Higher tier or upgraded ChatGPT access requires the approved request process after training completion."
+  },
+  {
+    "title": "OpenAI API Access",
+    "product": "OpenAI API",
+    "content": "Users must complete training, raise a OneConnect request and obtain reporting manager approval before API access."
+  },
+  {
+    "title": "OpenAI API Key Creation",
+    "product": "OpenAI API",
+    "content": "After access approval, users can log into the OpenAI platform, select the assigned project and create a secret API key."
+  },
+  {
+    "title": "OpenAI API Key Security",
+    "product": "OpenAI API",
+    "content": "API keys must never be shared through email, chat, tickets, screenshots or source code repositories."
+  },
+  {
+    "title": "OpenAI API Authentication",
+    "product": "OpenAI API",
+    "content": "Authentication requires a valid approved account and API key generated under the correct project."
+  },
+  {
+    "title": "OpenAI API Project Selection",
+    "product": "OpenAI API",
+    "content": "Users should select the same project configured during the access request process."
+  },
+  {
+    "title": "Codex Installation",
+    "product": "Codex",
+    "content": "Codex is an OpenAI coding assistant used for code generation, developer productivity and debugging. Installation requires the Codex App Request Form and a network connected laptop."
+  },
+  {
+    "title": "Codex Access",
+    "product": "Codex",
+    "content": "Codex requires approved OpenAI API access and appropriate project assignment."
+  },
+  {
+    "title": "Codex Authentication",
+    "product": "Codex",
+    "content": "Authentication requires a valid API key created from the approved OpenAI project."
+  },
+  {
+    "title": "Codex VS Code Setup",
+    "product": "Codex",
+    "content": "Codex can be integrated into development environments such as VS Code through supported extensions and API authentication."
+  },
+  {
+    "title": "Codex Troubleshooting",
+    "product": "Codex",
+    "content": "Users experiencing Codex issues should verify API access, project alignment and active authentication credentials."
+  },
+  {
+    "title": "Codex Developer Productivity",
+    "product": "Codex",
+    "content": "Codex helps developers with code generation, debugging, suggestions and engineering productivity improvements."
+  },
+  {
+    "title": "Partner U Registration",
+    "product": "Partner U",
+    "content": "Partner U registration requires Partner ID HCL-001 and corporate email registration."
+  },
+  {
+    "title": "Partner U Login",
+    "product": "Partner U",
+    "content": "Partner U access uses registered credentials and password reset procedures when necessary."
+  },
+  {
+    "title": "Partner U Two Factor Authentication",
+    "product": "Partner U",
+    "content": "Partner U may require two factor authentication setup and verification."
+  },
+  {
+    "title": "Hackathon Setup",
+    "product": "Hackathon",
+    "content": "Hackathon participants should verify required software, local admin permissions and approved OpenAI access."
+  },
+  {
+    "title": "Developer Environment Setup",
+    "product": "Development",
+    "content": "Developers should install VS Code, required runtimes, Git and supporting tools before beginning development."
+  },
+  {
+    "title": "NodeJS Requirement",
+    "product": "Development",
+    "content": "Some development tools require an installed and properly configured NodeJS environment."
+  },
+  {
+    "title": "VS Code Installation",
+    "product": "Development",
+    "content": "VS Code should be installed with approved extensions and development tool integrations."
+  },
+  {
+    "title": "Knowledge Base Escalation",
+    "product": "Support",
+    "content": "Cases with insufficient confidence should be escalated for human review."
+  },
+  {
+    "title": "Support Case Creation",
+    "product": "Support",
+    "content": "Each support interaction generates a unique support case identifier and stores conversation history."
+  },
+  {
+    "title": "Human Escalation Process",
+    "product": "Support",
+    "content": "Low confidence responses, knowledge gaps and unresolved issues should be escalated to human support teams."
+  }
+]
